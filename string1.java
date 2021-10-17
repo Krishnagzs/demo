@@ -4,8 +4,8 @@ class string1
 public static void main(String args[])
 {
 	String n,m,p;
-	n="krishna";
-	m="kumar";
+	n="govind kumar";
+	m="sahu";
 	p=n+" "+m;
 System.out.println(p);
 System.out.println(p.toUpperCase());
