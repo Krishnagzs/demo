@@ -11,7 +11,7 @@ System.out.println(p);
 System.out.println(p.toUpperCase());
 System.out.println(p.toLowerCase());
 System.out.println( "hello="  +p.toUpperCase());
-String u="krityaveer";
+String u="manish";
 int l=u.length();
 System.out.println("length="+l);
 
