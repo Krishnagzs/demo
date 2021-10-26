@@ -4,7 +4,7 @@ class string1
 public static void main(String args[])
 {
 	String n,m,p;
-	n="govind kumar";
+	n="govind sahu";
 	m="sahu";
 	p=n+" "+m;
 System.out.println(p);
@@ -15,6 +15,7 @@ String u="manish";
 int l=u.length();
 System.out.println("length="+l);
 	System.out.println("krishna");
+	System.out.println("satyam");
 
 
 
