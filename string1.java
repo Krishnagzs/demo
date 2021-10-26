@@ -15,6 +15,7 @@ String u="manish";
 int l=u.length();
 System.out.println("length="+l);
 	System.out.println("krishna");
+	System.out.println("satyam");
 
 
 
